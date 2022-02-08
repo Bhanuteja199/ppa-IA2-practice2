@@ -1,1 +1,8 @@
+gcc -g p1original.c
+ ./a.out
+Enter the value of BASE:-
+1
+Enter the value of HEIGHT:-
+2
+The Area of trinagle is 1.000000 
 
